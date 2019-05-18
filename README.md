@@ -27,4 +27,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-"# S19ChinguPrework" 
+"# V8ChinguPrework" 
